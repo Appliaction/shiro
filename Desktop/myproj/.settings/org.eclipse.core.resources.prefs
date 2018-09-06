@@ -1,3 +1,6 @@
 eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/github/zhangkaitao/shiro/chapter11/session/dao=UTF-8
+encoding//src/main/java/com/github/zhangkaitao/shiro/chapter12/credentials=UTF-8
 encoding//src/test/java/com/github/zhangkaitao/shiro/chapter11/BaseTest.java=UTF-8
 encoding//src/test/java/com/github/zhangkaitao/shiro/chapter12/ShiroTest.java=UTF-8
